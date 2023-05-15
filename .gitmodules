@@ -1,0 +1,4 @@
+[submodule "Plugins/VaRest"]
+	path = Plugins/VaRest
+	url = https://github.com/ufna/VaRest.git
+	branch = 5.0
